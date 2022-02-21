@@ -1,0 +1,91 @@
+body{
+    background: #3f3958;
+}
+
+#arrow{
+    color :  #3f3958;
+    font-size: 40px;
+}
+.div1{
+    margin-top: 50px;
+    margin-left: 80%;
+}
+
+#arrow-btn{
+     color: white;
+}
+#arrow-btn:hover{
+    background: blue;
+}
+.div2{
+    color: white;
+    position: absolute;
+    top: 10%;
+    left:10%;
+    font-size: 30px;
+}
+
+#clock{
+    color :  white;
+    font-size: 40px;
+}
+
+.div3{
+    margin-top: 40px;
+    margin-left: 40%;
+}
+/* #clock-btn{
+    background-color: white;
+    border-radius: 1000px;
+} */
+.Todo{
+    margin-top: 40px;
+    margin-left: 15%;
+}
+
+#pen{
+    font-size: 35px;
+}
+#loc{
+    font-size: 35px;
+}
+#des{
+    font-size: 35px;
+}
+#txt1
+{
+    height: 30px;
+    /* width: 20px; */
+}
+#txt2{
+    height: 30px;
+    /* width: 20px; */
+}
+#txt3{
+    height: 30px;
+    /* width: 20px; */
+}
+/* #icon1{
+    display: flex;
+    column-gap: 80px;
+}
+#icon2{
+    display: flex;
+    column-gap:90px;
+}
+#icon3{
+    display: flex;
+    column-gap: 80px;
+} */
+
+#btn-2{
+    width: 200px;
+    height: 25px;
+    background-color: blue;
+    color: white
+}
+
+#Add-btn{
+    padding-left: 20%;
+    padding-top: 40px;
+}
